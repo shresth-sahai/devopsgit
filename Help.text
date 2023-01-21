@@ -1,0 +1,16 @@
+tracked --->files that git know about that r to be tracked 
+untracked ---> opposite 
+
+Apples-MacBook-Pro:myproject shresthsahai$ git log
+commit 2127096ddf8ab3de74168885f92295e18d83d20d (HEAD -> master)
+Author: Shresth Sahai <shresth0407@gmail.com>
+Date:   Sat Jan 21 11:19:29 2023 +0530
+
+    Added index.html file
+Apples-MacBook-Pro:myproject shresthsahai$ 
+
+Apples-MacBook-Pro:myproject shresthsahai$ git branch 
+* master
+Apples-MacBook-Pro:myproject shresthsahai$ git checkout -b ss/fa
+Switched to a new branch 'ss/fa'
+Apples-MacBook-Pro:myproject shresthsahai$ 
